@@ -1,0 +1,39 @@
+.container {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.img {
+    width: 350px;
+    height: 350px;
+    padding-top: 100px;
+}
+
+.timer {
+    font-size: 130px;
+    margin-top: -250px;
+}
+
+.areaBtn {
+    margin-top: 100px;
+    display: flex;
+}
+
+.button {
+    width: 150px;
+    background-color: #FFF;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 10px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.button:hover {
+    opacity: 0.7;
+    background-color: whitesmoke;
+    transition: all 0.60s;
+}
