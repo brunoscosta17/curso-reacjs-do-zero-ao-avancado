@@ -3,11 +3,10 @@ React Js do zero ao avançado na pratica - https://www.udemy.com/course/curso-re
 
 Course content 15:00:28
 –
-Inicio da jornada
-01:12
+Inicio da jornada 01:12
 Introdução
-Preview
-01:12
+
+Preview 01:12
 –
 JavaScript - Primeiros passos
 01:15:31
